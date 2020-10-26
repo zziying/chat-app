@@ -1,7 +1,7 @@
 # chat-app
 
 This is a chat app built with Javascipt, node.js framework and socket.io.   
-It allows users to join different chat room, choose their own username, and share the current physical location during the chatting!
+It allows users to join a different chat room, choose their own username, and share the current physical location during the chatting!
 
 ## Getting Started
 
@@ -9,8 +9,16 @@ It allows users to join different chat room, choose their own username, and shar
 * npm
 ```sh
 npm install npm@latest -g
+```
+
+* npm dependencies
+```sh
 npm install
-npm start
+```
+
+* run in development mode
+```sh
+npm run dev
 ```
 
 ### Usage
