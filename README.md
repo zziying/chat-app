@@ -15,4 +15,5 @@ npm start
 ### Usage
 
 This app has been deployed in heroku -> https://chatapp-irenez.herokuapp.com/
+Enter your prefer username, choose a room with your friends, and happy chatting!
 
