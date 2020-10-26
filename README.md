@@ -1,6 +1,6 @@
 # chat-app
 
-This is a chat app built with Javascipt and socket.io. It allows users to join different chat room and choose their own username during the chatting!
+This is a chat app built with Javascipt, node.js framework and socket.io. It allows users to join different chat room and choose their own username during the chatting!
 
 ## Getting Started
 
@@ -12,4 +12,7 @@ npm install
 npm start
 ```
 
+### Usage
+
+This app has been deployed in heroku -> https://chatapp-irenez.herokuapp.com/
 
