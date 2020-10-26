@@ -1,6 +1,7 @@
 # chat-app
 
-This is a chat app built with Javascipt, node.js framework and socket.io. It allows users to join different chat room and choose their own username during the chatting!
+This is a chat app built with Javascipt, node.js framework and socket.io.   
+It allows users to join different chat room, choose their own username, and share the current physical location during the chatting!
 
 ## Getting Started
 
